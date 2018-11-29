@@ -24,8 +24,14 @@ _Docs_
 - [Data Browser Userguide](https://github.com/solid/userguide) - Userguide for Solid's default data browser.
 - [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
 - [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) - Docs for the rdflib.js Linked Data API.
+- [Social Apps PDF](http://crosscloud.org/2016/www-mansour-pdf.pdf) - A paper on Solid for Social Web Apps.
+- [Solid Hacks Ebook](https://solid.gitbook.io/solid-hacks/) - Melvin Carvalho's coding gitbook for Solid.
+- [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
+- [W3C Wiki]|(https://www.w3.org/community/solid/wiki) - Solid wiki.
 
+_Media_
 
+- [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim's enthusiastic presentation on 'Linked Data'.
 
 --------------------
 
@@ -33,12 +39,17 @@ _Docs_
 
 _Community_
 
-- [Solid Chat on Gitter](https://gitter.im/solid/chat) - Solid's live chatroom.
+- [Gitter Chat](https://gitter.im/solid/chat) - Solid live chatroom.
 - [Solid Community](https://forum.solidproject.org/) - The official Solid Community Forum!
+- [Reddit](https://www.reddit.com/r/solid/) - Solid subreddit.
+- [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
+- [IRC](irc://irc.w3.org:6667/#solid) - Solid IRC Chat.
+- [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
+- [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
 
 _Corporate_
 
-- [Solid Inc](https://www.inrupt.com/) - The company that’s helping to fuel Solid’s success. 
+- [Solid Inc](https://www.inrupt.com/) - The company tasked with helping Solid’s adoption and success.
 
 
 --------------------
@@ -77,8 +88,9 @@ _About Pods_
 _Find Pods_
 
 - [Get a POD!](https://solid.inrupt.com/get-a-solid-pod) - Grab a Pod and WebID here!
+- [Join Solid](https://joinsolid.org/) - Another pod.
 
-_Make Pods_
+_Start Pods_
 
 - [POD Server Setup](https://solidpodit.com/solid-pod-server-creation/) - Step-by-step instructions for Linux.
 
@@ -86,7 +98,6 @@ _Make Pods_
 
 - Misc Links
 
-- (pending)
-
+ ...
 
 --------------------
