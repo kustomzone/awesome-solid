@@ -20,9 +20,11 @@ _Docs_
 - [Solid Docs](https://solid.inrupt.com/docs/getting-started) - Getting started!
 - [Solid Github](https://github.com/solid/solid) - Re-decentralizing the web. (project directory)
 - [Solid Specs](https://github.com/solid/solid-spec) - The Solid spec and architecture.
+- [Solid Wikipedia](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) - Solid (Social Linked Data) is a web decentralization project.
 - [Data Browser Userguide](https://github.com/solid/userguide) - Userguide for Solid's default data browser.
 - [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
 - [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) - Docs for the rdflib.js Linked Data API.
+
 
 
 --------------------
@@ -56,17 +58,29 @@ _Open Source_
 
 _Editors_
 
-- [Jeff's IDE Source](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores.   [Live](https://jeff-zucker.github.io/solid-ide/)
-- [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager.   [Live](https://linkeddata.github.io/warp/)
-- [Dredd's Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside.   [Live](https://dredd.solid.community/public/)
+- [Jeff's IDE Source](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
+- [Dredd's Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
 
+_Viewers_
+
+- [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. [Live](https://profiles.veltens.org/)
 
 --------------------
 
 - List of Pods
 
+_About Pods_
+
+- [Intro on Pods](http://brian.becker.fyi/2018/10/07/pods-and-the-decentralization-of-our-social-network/) - What are Pods?
+
+_Find Pods_
+
 - [Get a POD!](https://solid.inrupt.com/get-a-solid-pod) - Grab a Pod and WebID here!
 
+_Make Pods_
+
+- [POD Server Setup](https://solidpodit.com/solid-pod-server-creation/) - Step-by-step instructions for Linux.
 
 --------------------
 
