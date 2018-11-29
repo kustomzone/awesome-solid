@@ -1,3 +1,5 @@
+![Awesome Solid](/img/awesome.png?raw=true)[https://github.com/kustomzone/awesome-solid]
+
 # Awesome-Solid
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -40,7 +42,7 @@ _Docs_
 
 - List of Projects
 
-- [Jeff's IDE Source] (https://github.com/jeff-zucker/solid-ide) - Solside, am editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Jeff's IDE Source](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
 - [Dredd's Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
 
 --------------------
