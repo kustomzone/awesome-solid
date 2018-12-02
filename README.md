@@ -5,8 +5,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An Awesome List of Solid Links &amp; Projects
-
 Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-Lee, inventor of the World Wide Web.
 The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
 
@@ -32,6 +30,7 @@ _Docs_
 _Media_
 
 - [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim's enthusiastic presentation on 'Linked Data'.
+- [Tim's latest talk | MozFest 2018](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
 
 --------------------
 
@@ -43,7 +42,6 @@ _Community_
 - [Solid Community](https://forum.solidproject.org/) - The official Solid Community Forum!
 - [Reddit](https://www.reddit.com/r/solid/) - Solid subreddit.
 - [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
-- [IRC](irc://irc.w3.org:6667/#solid) - Solid IRC Chat.
 - [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
 - [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
 
@@ -98,6 +96,8 @@ _Start Pods_
 
 - Misc Links
 
- ...
+_Related_
+
+- [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
 
 --------------------
