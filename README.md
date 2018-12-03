@@ -26,11 +26,13 @@ _Docs_
 - [Solid Hacks Ebook](https://solid.gitbook.io/solid-hacks/) - Melvin Carvalho's coding gitbook for Solid.
 - [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
 - [W3C Wiki]|(https://www.w3.org/community/solid/wiki) - Solid wiki.
+- [Linked Data Primer](https://www.w3.org/DesignIssues/LinkedData.html) - Tim's overview on linked data.
 
 _Media_
 
 - [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim's enthusiastic presentation on 'Linked Data'.
-- [Tim's latest talk | MozFest 2018](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
+- [Tim's Mozfest 2018 presentation](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
+- [Tim & Ruben Verborgh with Q&A](https://www.youtube.com/watch?v=kW6e1GCpqpE&t=17970) - Decentralized Web Summit 2018 presentation (@ 4:59:30)
 
 --------------------
 
@@ -98,6 +100,17 @@ _Start Pods_
 
 _Related_
 
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
+
+_Discussions_
+
+- [HN Topic 1](https://news.ycombinator.com/item?id=18143517) - How Solid is Tim’s plan to redecentralize the web?
+ (https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
+- [HN Topic 2](https://news.ycombinator.com/item?id=17441820) - The man who created the web has some regrets.
+ (https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
+- [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
+- [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
+
 
 --------------------
