@@ -1,6 +1,4 @@
 
-# Awesome-Solid
-
 ![Awesome Solid](/img/awesome.png?raw=true)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -25,7 +23,7 @@ _Docs_
 - [Social Apps PDF](http://crosscloud.org/2016/www-mansour-pdf.pdf) - A paper on Solid for Social Web Apps.
 - [Solid Hacks Ebook](https://solid.gitbook.io/solid-hacks/) - Melvin Carvalho's coding gitbook for Solid.
 - [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
-- [W3C Wiki]|(https://www.w3.org/community/solid/wiki) - Solid wiki.
+- [W3C Wiki](https://www.w3.org/community/solid/wiki) - Solid wiki.
 - [Linked Data Primer](https://www.w3.org/DesignIssues/LinkedData.html) - Tim's overview on linked data.
 
 _Media_
@@ -61,11 +59,16 @@ _Open Source_
 - [Solid's Node Server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS.
 - [Solid Panes](https://github.com/solid/solid-panes) - A set of core solid-compatible apps based on solid-ui.
 - [Linked Data API](https://github.com/linkeddata/rdflib.js) - rdflib.js - the Linked Data API for JavaScript. 
+- [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) - Safe Network backend for Solid apps.
 
 
 --------------------
 
 - List of Projects
+
+_Apps_
+
+- [MarkBook.org](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 
 _Editors_
 
@@ -76,6 +79,7 @@ _Editors_
 _Viewers_
 
 - [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. [Live](https://profiles.veltens.org/)
+
 
 --------------------
 
@@ -102,6 +106,7 @@ _Related_
 
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
+- [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
 
 _Discussions_
 
