@@ -122,5 +122,9 @@ _Discussions_
 - [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
 - [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
 
+_Articles_
+
+- [The Project Solid as a Road Assembling Itself on the Go](http://www.teodorapetkova.com/poiesis-of-relationships/the-project-solid-as-a-road-assembling-itself-on-the-go/) - Nov 6th 2018 by Teodora Petkova
+
 
 --------------------
