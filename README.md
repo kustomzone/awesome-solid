@@ -69,6 +69,7 @@ _Open Source_
 _Apps_
 
 - [MarkBook.org](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
 
 _Editors_
 
@@ -76,7 +77,7 @@ _Editors_
 - [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
 - [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
 - [Combo File Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
-- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems.
+- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. 
 
 _Viewers_
 
