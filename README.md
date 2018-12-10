@@ -72,9 +72,11 @@ _Apps_
 
 _Editors_
 
-- [Jeff's IDE Source](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Solid IDE](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
 - [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
-- [Dredd's Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
+- [Combo File Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
+- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems.
 
 _Viewers_
 
@@ -107,6 +109,8 @@ _Related_
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
 - [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
+- [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) - OWL is a knowledge representation, a way to describe taxonomies
+   ..and classification networks, essentially defining the structure of knowledge for various domains.
 
 _Discussions_
 
