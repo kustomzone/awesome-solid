@@ -4,7 +4,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-Lee, inventor of the World Wide Web.
-The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
+<br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
 
 --------------------
 
@@ -31,6 +31,11 @@ _Media_
 - [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim's enthusiastic presentation on 'Linked Data'.
 - [Tim's Mozfest 2018 presentation](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
 - [Tim & Ruben Verborgh with Q&A](https://www.youtube.com/watch?v=kW6e1GCpqpE&t=17970) - Decentralized Web Summit 2018 presentation (@ 4:59:30)
+
+_Articles_
+
+- [The Project Solid as a Road Assembling Itself on the Go](http://www.teodorapetkova.com/poiesis-of-relationships/the-project-solid-as-a-road-assembling-itself-on-the-go/) - Nov 6th 2018 by Teodora Petkova.
+- [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-6) - Dec 20th 2017 in-depth overview by Ruben Verborgh.
 
 --------------------
 
@@ -123,10 +128,6 @@ _Discussions_
  (https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
 - [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
 - [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
-
-_Articles_
-
-- [The Project Solid as a Road Assembling Itself on the Go](http://www.teodorapetkova.com/poiesis-of-relationships/the-project-solid-as-a-road-assembling-itself-on-the-go/) - Nov 6th 2018 by Teodora Petkova
 
 
 --------------------
