@@ -114,6 +114,9 @@ _Start Pods_
 
 _Related_
 
+- [RDF JavaScript Libraries](https://github.com/rdfjs) - W3C RDFJS Community Group.
+- [RDF-ext](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
+- [Simple RDF](https://github.com/simplerdf) - The simplest RDF library "ever".
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
 - [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
