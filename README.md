@@ -52,8 +52,9 @@ _Community_
 
 _Corporate_
 
-- [Solid Inc](https://www.inrupt.com/) - The company tasked with helping Solid’s adoption and success.
-
+- [Inrupt Inc](https://www.inrupt.com/) - Homepage of the company tasked with helping Solid’s adoption and success.
+- [Inrupt Twitter](https://twitter.com/inrupt) - Follow Inrupt's latest announcements on Twitter!
+- [Inrupt Linkedin](https://www.linkedin.com/company/inrupt-inc/) - Inrupt's Linkedin page.
 
 --------------------
 
@@ -75,19 +76,20 @@ _Apps_
 
 - [MarkBook.org](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
+- [RC LogBook](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. [Live](https://solidrc.azurewebsites.net)
 
 _Editors_
 
 - [Solid IDE](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
 - [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
 - [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
-- [Combo File Editor](https://github.com/kustomzone/solid-editor) - Solid Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
-- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. 
+- [Combo File Editor](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
+- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. [Live](https://spoggy.herokuapp.com/)
 
 _Viewers_
 
 - [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. [Live](https://profiles.veltens.org/)
-
+- [Graphmetrix.net](https://graphmetrix.net/) - A Solid graph planner and viewer. 
 
 --------------------
 
@@ -110,18 +112,15 @@ _Start Pods_
 
 --------------------
 
-- Misc Links
+- Related Info
 
-_Related_
+_Definitions_
 
-- [RDF JavaScript Libraries](https://github.com/rdfjs) - W3C RDFJS Community Group.
-- [RDF-ext](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
-- [Simple RDF](https://github.com/simplerdf) - The simplest RDF library "ever".
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
-- [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
-- [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
+- [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) - The Semantic Web, coined by Tim Berners-Lee, is a W3C initiative to promote common
+ data formats and exchange protocols on the Web, most fundamentally the Resource Description Framework (RDF).
+
 - [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) - OWL is a knowledge representation, a way to describe taxonomies
-   ..and classification networks, essentially defining the structure of knowledge for various domains.
+ and classification networks, essentially defining the structure of knowledge for various domains.
 
 _Discussions_
 
@@ -131,6 +130,27 @@ _Discussions_
  (https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
 - [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
 - [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
+
+ _Tutorials_
+ 
+- [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, video introduction to Linked Data.
+- [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, video introduction to JSON-LD for Web devs.
+- [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, video introduction to the basics of RDFa and the Semantic Web.
+
+- [rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js) - This tutorial will walk you through what rdflib.js can do.
+
+_Technical_
+
+- [RDF JavaScript Libraries](https://github.com/rdfjs) - W3C RDFJS Community Group.
+- [RDF-ext](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
+- [Simple RDF](https://github.com/simplerdf) - The simplest RDF library "ever".
+- [Check RDF documents](https://www.w3.org/RDF/Validator/) - W3C's validation service for RDF documents.
+- [RDF Translator](http://rdf-translator.appspot.com/) - A multi-format conversion tool for RDF/XML, RDFa, or Microdata.
+- [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [https://github.com/digitalbazaar/jsonld.js](jsonld.js).
+- [LDflex Playground](https://github.com/solid/ldflex-playground) - Solid LDflex playground. [Live](https://solid.github.io/ldflex-playground/)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
+- [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
+- [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
 
 
 --------------------
