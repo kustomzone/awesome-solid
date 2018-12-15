@@ -66,6 +66,8 @@ _Articles_
 
 - [The Project Solid as a Road Assembling Itself on the Go](http://www.teodorapetkova.com/poiesis-of-relationships/the-project-solid-as-a-road-assembling-itself-on-the-go/) - Nov 6th 2018 by Teodora Petkova.
 - [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-6) - Dec 20th 2017 in-depth overview by Ruben Verborgh.
+- [How Solid is Tim’s plan to redecentralize the web?](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835) - Oct 5th 2018 by Irina Bolychevsky.
+- [The man who created the web has some regrets](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets) - Vanityfair, Aug 2018 by Katrina Brooker.
 
 --------------------
 
@@ -157,10 +159,10 @@ _Start Pods_
 
 _HackerNews_
 
-- [How Solid is Tim’s plan to redecentralize the web?](https://news.ycombinator.com/item?id=18143517) | [Source article](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
-- [The man who created the web has some regrets](https://news.ycombinator.com/item?id=17441820) | [Source article](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
-- [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | [Source article](https://solid.mit.edu/)
-- [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | [Source article](https://solid.inrupt.com/)
+- [How Solid is Tim’s plan to redecentralize the web?](https://news.ycombinator.com/item?id=18143517) | - [article](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
+- [The man who created the web has some regrets](https://news.ycombinator.com/item?id=17441820) | - [article](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
+- [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | - [article](https://solid.mit.edu/)
+- [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | - [article](https://solid.inrupt.com/)
 
 --------------------
 
@@ -191,8 +193,8 @@ _HackerNews_
 
 ### Related Awesomeness
 
-- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
-- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
-- [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
+- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) | [![github](/img/github.svg) ](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
+- [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) | [![github](/img/github.svg) ](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
 
 --------------------
