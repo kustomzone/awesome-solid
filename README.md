@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-Lee, inventor of the World Wide Web.
+Solid is an exciting new decentralized hosting project led by Prof. [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) [![github](/img/github.svg)](https://github.com/timbl), inventor of the World Wide Web.
 <br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
 
 --------------------
@@ -37,7 +37,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 <br>- It allows you, your family and colleagues, to link and share data with anyone.
 <br>- It allows people to look at the same data with different apps at the same time."
 <br>
-<br>Read more of [Tim's Open Letter](https://www.inrupt.com/blog/one-small-step-for-the-web) to the community about Solid and Inrupt. 
+<br>Read more of [Tim's](https://twitter.com/timberners_lee) [Open Letter](https://www.inrupt.com/blog/one-small-step-for-the-web) to the community about Solid and Inrupt. 
 
 --------------------
 
@@ -59,7 +59,9 @@ _Docs_
 
 _Media_
 
-- [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim's enthusiastic presentation on 'Linked Data'.
+- [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - 'The Next Web' will unlock our data and reframe the way we use it together.
+- [Tim's TED talk 2010](https://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide) - The Year Open Data Went Worldwide.
+- [Tim's TED talk 2014](https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web) - It’s up to us to fight for the right to access and openness.
 - [Tim's Mozfest 2018 presentation](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
 - [Tim & Ruben Verborgh with Q&A](https://www.youtube.com/watch?v=kW6e1GCpqpE&t=17970) - Decentralized Web Summit 2018 presentation (@ 4:59:30)
 
@@ -69,6 +71,7 @@ _Articles_
 - [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-6) - Dec 20th 2017 in-depth overview by Ruben Verborgh.
 - [How Solid is Tim’s plan to redecentralize the web?](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835) - Oct 5th 2018 by Irina Bolychevsky.
 - [The man who created the web has some regrets](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets) - Vanityfair, Aug 2018 by Katrina Brooker.
+- [Three challenges for the web, according to its inventor](https://webfoundation.org/2017/03/web-turns-28-letter/) - Tim's Open Letter, Mar 12th 2017.
 
 --------------------
 
@@ -87,21 +90,21 @@ _Open Source_
 
 _Apps_
 
-- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
-- [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
-- [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. [Live](https://solidrc.azurewebsites.net)
+- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
+- [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. | [Live](https://solidrc.azurewebsites.net)
 
 _Editors_
 
-- [Solid IDE](https://github.com/jeff-zucker/solid-ide) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
-- [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
-- [Warp LDP](https://github.com/linkeddata/warp) | [![github](/img/github.svg) ](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
-- [Combo File Editor](https://github.com/kustomzone/solid-editor) | [![github](/img/github.svg) ](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
-- [Spoggy4](https://github.com/scenaristeur/spoggy4) | [![github](/img/github.svg) ](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. [Live](https://spoggy.herokuapp.com/)
+- [Solid IDE](https://github.com/jeff-zucker/solid-ide) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. | [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser. | [Live](https://jeff-zucker.github.io/sparql-fiddle/)
+- [Warp LDP](https://github.com/linkeddata/warp) | [![github](/img/github.svg) ](https://github.com/linkeddata/warp) - Warp, the linked data file manager. | [Live](https://linkeddata.github.io/warp/)
+- [Combo File Editor](https://github.com/kustomzone/solid-editor) | [![github](/img/github.svg) ](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. | [Live](https://dredd.solid.community/public/)
+- [Spoggy4](https://github.com/scenaristeur/spoggy4) | [![github](/img/github.svg) ](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. | [Live](https://spoggy.herokuapp.com/)
 
 _Viewers_
 
-- [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. [Live](https://profiles.veltens.org/)
+- [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. | [Live](https://profiles.veltens.org/)
 - [Graphmetrix.net](https://graphmetrix.net/) - A Solid graph planner and viewer. 
 
 --------------------
@@ -117,7 +120,7 @@ _Find Pods_
 - [Get a POD!](https://solid.inrupt.com/get-a-solid-pod) - Grab a Pod and WebID here!
 - [Join Solid](https://joinsolid.org/) - Starting pod.
 - [Test Space](https://solidtest.space/) - Testing pod.
-- [Authing.cn](https://solid.authing.cn/) - Another pod.
+- [Authing.cn](https://solid.authing.cn/) - China's first pod.
 
 _Start Pods_
 
@@ -146,9 +149,14 @@ _Start Pods_
 
 ### Tutorials
 
-- [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, video introduction to Linked Data.
-- [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, video introduction to JSON-LD for Web devs.
-- [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, video introduction to the basics of RDFa and the Semantic Web.
+_Video_
+
+- [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, an explainer for Linked Data.
+- [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, intro on JSON-LD for Web devs.
+- [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, intro on the basics of RDFa and the Semantic Web.
+
+_Other_
+
 - [Playing with Solid](http://dontai.com/wp/2018/10/01/playing-with-solids-pod-documentation) - Dontai's beginner's guide to managing a pod.
 - [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
 - [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
@@ -175,7 +183,7 @@ _HackerNews_
 - [Check RDF documents](https://www.w3.org/RDF/Validator/) - W3C's validation service for RDF documents.
 - [RDF Translator](http://rdf-translator.appspot.com/) - A multi-format conversion tool for RDF/XML, RDFa, or Microdata.
 - [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [jsonld.js](https://github.com/digitalbazaar/jsonld.js) | [![github](/img/github.svg) ](https://github.com/digitalbazaar/jsonld.js) 
-- [LDflex Playground](https://github.com/solid/ldflex-playground) | [![github](/img/github.svg) ](https://github.com/solid/ldflex-playground) - Solid LDflex playground. [Live](https://solid.github.io/ldflex-playground/)
+- [LDflex Playground](https://github.com/solid/ldflex-playground) | [![github](/img/github.svg) ](https://github.com/solid/ldflex-playground) - Solid LDflex playground. | [Live](https://solid.github.io/ldflex-playground/)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [Trellis LDP](https://github.com/trellis-ldp/trellis) | [![github](/img/github.svg) ](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
