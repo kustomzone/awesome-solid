@@ -21,6 +21,7 @@ Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-
 - [Discussions](#discussions)
 - [Technical Info](#technical-info)
 - [Definitions](#definitions)
+- [International](#international)
 - [Related awesomeness](#related-awesomeness)
 
 
@@ -28,13 +29,13 @@ Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-
 
 ### About Solid
 
-Solid (derived from "Social Linked Data") is a set of conventions and tools for building decentralized social
-<br>apps based on Linked Data principles. It's modular, extensible, and follows existing W3C standards and protocols.
+Solid (derived from "Social Linked Data") is a set of conventions and tools for building decentralized social apps
+<br>based on Linked Data principles. It's modular, extensible, and follows existing W3C standards and protocols.
 <br>
 <br>"Solid is a platform, built using the existing web. It gives every user a choice about where data is stored,
-<br>which specific people and groups can access select elements, and which apps you use.
-<br>It allows you, your family and colleagues, to link and share data with anyone.
-<br>It allows people to look at the same data with different apps at the same time."
+<br> which specific people and groups can access select elements, and which apps you use.
+<br>- It allows you, your family and colleagues, to link and share data with anyone.
+<br>- It allows people to look at the same data with different apps at the same time."
 <br>
 <br>Read more of [Tim's Open Letter](https://www.inrupt.com/blog/one-small-step-for-the-web) to the community about Solid and Inrupt. 
 
@@ -44,7 +45,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 _Docs_
 
-- [Solid MIT](https://solid.mit.edu/) - What is Solid?
+- [Solid MIT](https://solid.mit.edu/) | [![github](/img/github.svg) ](https://github.com/solid/solid.mit.edu) - What is Solid?
 - [Solid Docs](https://solid.inrupt.com/docs/getting-started) - Getting started!
 - [Solid Github](https://github.com/solid/solid) | [![github](/img/github.svg) ](https://github.com/solid/solid) - Re-decentralizing the web. (project directory)
 - [Solid Specs](https://github.com/solid/solid-spec) | [![github](/img/github.svg) ](https://github.com/solid/solid-spec) - The Solid spec and architecture.
@@ -161,8 +162,8 @@ _HackerNews_
 
 - [How Solid is Tim’s plan to redecentralize the web?](https://news.ycombinator.com/item?id=18143517) | - [article](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
 - [The man who created the web has some regrets](https://news.ycombinator.com/item?id=17441820) | - [article](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
-- [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | - [article](https://solid.mit.edu/)
-- [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | - [article](https://solid.inrupt.com/)
+- [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | - [site](https://solid.mit.edu/)
+- [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | - [site](https://solid.inrupt.com/)
 
 --------------------
 
@@ -191,10 +192,26 @@ _HackerNews_
 
 --------------------
 
+### International
+
+_China_
+
+- [学习 Solid](https://github.com/LearnSolid) | [![github](/img/github.svg) ](https://github.com/LearnSolid)
+- [Solid 是什么?](https://learnsolid.cn/) | [![github](/img/github.svg) ](https://github.com/LearnSolid) - 学习 Solid 中文网.
+- [Solid 中文文档](https://learnsolid.cn/docs/#/) | [![github](/img/github.svg) ](https://github.com/LearnSolid/docs)
+- [Solid & IPFS](https://github.com/LearnSolid/solid-ipfs) | [![github](/img/github.svg) ](https://github.com/LearnSolid/solid-ipfs)
+- [获取 Pod](https://solid.authing.cn) - 从 Solid 中文网获取.
+- [Solid & Authing](https://github.com/Authing/solid-authing) | [![github](/img/github.svg) ](https://github.com/Authing/solid-authing)
+- [Authing](https://github.com/Authing) | [![github](/img/github.svg) ](https://github.com/Authing) - An identity for everyone and everything.
+- [Filego](https://github.com/Eximua/filego) | [![github](/img/github.svg) ](https://github.com/Eximua/filego) - Decentralized storage platform secured by Solid, Authing & IPFS. | [Site](https://filego.io/) | [Intro](https://github.com/Eximua/introduction)
+
+--------------------
+
 ### Related Awesomeness
 
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) | [![github](/img/github.svg) ](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) | [![github](/img/github.svg) ](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
+- [Awesome IPFS](https://awesome.ipfs.io/) | [![github](/img/github.svg) ](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS.
 
 --------------------
