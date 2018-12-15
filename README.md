@@ -8,22 +8,52 @@ Solid is an exciting new decentralized hosting project led by Prof. Tim Berners-
 
 --------------------
 
-- List of Resources
+### Contents
+
+- [About Solid](#about-solid)
+- [Learning Resources](#learning-resources)
+- [List of Software](#list-of-software)
+- [List of Projects](#list-of-projects)
+- [List of Pods](#list-of-pods)
+- [Community Sites](#community-sites)
+- [Corporate Sites](#corporate-sites)
+- [Tutorials](#tutorials)
+- [Discussions](#discussions)
+- [Technical Info](#technical-info)
+- [Definitions](#definitions)
+- [Related awesomeness](#related-awesomeness)
+
+
+--------------------
+
+### About Solid
+
+Solid (derived from "Social Linked Data") is a set of conventions and tools for building decentralized social
+<br>apps based on Linked Data principles. It's modular, extensible, and follows existing W3C standards and protocols.
+<br>
+<br>"Solid is a platform, built using the existing web. It gives every user a choice about where data is stored,
+<br>which specific people and groups can access select elements, and which apps you use.
+<br>It allows you, your family and colleagues, to link and share data with anyone.
+<br>It allows people to look at the same data with different apps at the same time."
+<br>
+<br>Read more of [Tim's Open Letter](https://www.inrupt.com/blog/one-small-step-for-the-web) to the community about Solid and Inrupt. 
+
+--------------------
+
+### Learning Resources
 
 _Docs_
 
 - [Solid MIT](https://solid.mit.edu/) - What is Solid?
 - [Solid Docs](https://solid.inrupt.com/docs/getting-started) - Getting started!
-- [Solid Github](https://github.com/solid/solid) - Re-decentralizing the web. (project directory)
-- [Solid Specs](https://github.com/solid/solid-spec) - The Solid spec and architecture.
-- [Solid Wikipedia](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) - Solid (Social Linked Data) is a web decentralization project.
-- [Data Browser Userguide](https://github.com/solid/userguide) - Userguide for Solid's default data browser.
-- [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
-- [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) - Docs for the rdflib.js Linked Data API.
+- [Solid Github](https://github.com/solid/solid) | [![github](/img/github.svg) ](https://github.com/solid/solid) - Re-decentralizing the web. (project directory)
+- [Solid Specs](https://github.com/solid/solid-spec) | [![github](/img/github.svg) ](https://github.com/solid/solid-spec) - The Solid spec and architecture.
+- [Solid Wiki](https://www.w3.org/community/solid/wiki) - Solid wiki.
+- [Solid Wikipedia](https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)) - Solid is a web decentralization project.
+- [Data Browser Userguide](https://github.com/solid/userguide) | [![github](/img/github.svg) ](https://github.com/solid/userguide) - Userguide for Solid's default data browser.
+- [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) - Docs for the rdflib.js Linked Data API.
 - [Social Apps PDF](http://crosscloud.org/2016/www-mansour-pdf.pdf) - A paper on Solid for Social Web Apps.
 - [Solid Hacks Ebook](https://solid.gitbook.io/solid-hacks/) - Melvin Carvalho's coding gitbook for Solid.
-- [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
-- [W3C Wiki](https://www.w3.org/community/solid/wiki) - Solid wiki.
 - [Linked Data Primer](https://www.w3.org/DesignIssues/LinkedData.html) - Tim's overview on linked data.
 
 _Media_
@@ -39,52 +69,32 @@ _Articles_
 
 --------------------
 
-- List of Sites
-
-_Community_
-
-- [Gitter Chat](https://gitter.im/solid/chat) - Solid live chatroom.
-- [Solid Community](https://forum.solidproject.org/) - The official Solid Community Forum!
-- [Reddit](https://www.reddit.com/r/solid/) - Solid subreddit.
-- [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
-- [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
-- [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
-
-_Corporate_
-
-- [Inrupt Inc](https://www.inrupt.com/) - Homepage of the company tasked with helping Solid’s adoption and success.
-- [Inrupt Twitter](https://twitter.com/inrupt) - Follow Inrupt's latest announcements on Twitter!
-- [Inrupt Linkedin](https://www.linkedin.com/company/inrupt-inc/) - Inrupt's Linkedin page.
-
---------------------
-
-- List of Software
+### List of Software
 
 _Open Source_
 
-- [Solid's Node Server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS.
-- [Solid Panes](https://github.com/solid/solid-panes) - A set of core solid-compatible apps based on solid-ui.
-- [Linked Data API](https://github.com/linkeddata/rdflib.js) - rdflib.js - the Linked Data API for JavaScript. 
-- [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) - Safe Network backend for Solid apps.
-
+- [Solid's Node Server](https://github.com/solid/node-solid-server) | [![github](/img/github.svg) ](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS.
+- [Solid Panes](https://github.com/solid/solid-panes) | [![github](/img/github.svg) ](https://github.com/solid/solid-panes) - A set of core solid-compatible apps based on solid-ui.
+- [Linked Data API](https://github.com/linkeddata/rdflib.js) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) - the Linked Data API for JavaScript. 
+- [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) | [![github](/img/github.svg) ](https://github.com/theWebalyst/safenetwork-webapi) - Safe Network backend for Solid apps.
 
 --------------------
 
-- List of Projects
+### List of Projects
 
 _Apps_
 
-- [MarkBook.org](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
-- [Solid Chess](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
-- [RC LogBook](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. [Live](https://solidrc.azurewebsites.net)
+- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
+- [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. [Live](https://solidrc.azurewebsites.net)
 
 _Editors_
 
-- [Solid IDE](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
-- [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
-- [Warp LDP](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
-- [Combo File Editor](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
-- [Spoggy4](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. [Live](https://spoggy.herokuapp.com/)
+- [Solid IDE](https://github.com/jeff-zucker/solid-ide) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-ide) - Solside, an editor and file manager for Solid data stores. [Live](https://jeff-zucker.github.io/solid-ide/)
+- [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/sparql-fiddle) - Run SPARQL queries & procedures from command line or browser [Live](https://jeff-zucker.github.io/sparql-fiddle/)
+- [Warp LDP](https://github.com/linkeddata/warp) | [![github](/img/github.svg) ](https://github.com/linkeddata/warp) - Warp, the linked data file manager. [Live](https://linkeddata.github.io/warp/)
+- [Combo File Editor](https://github.com/kustomzone/solid-editor) | [![github](/img/github.svg) ](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. [Live](https://dredd.solid.community/public/)
+- [Spoggy4](https://github.com/scenaristeur/spoggy4) | [![github](/img/github.svg) ](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. [Live](https://spoggy.herokuapp.com/)
 
 _Viewers_
 
@@ -93,7 +103,7 @@ _Viewers_
 
 --------------------
 
-- List of Pods
+### List of Pods
 
 _About Pods_
 
@@ -112,17 +122,39 @@ _Start Pods_
 
 --------------------
 
-- Related Info
+### Community Sites
 
-_Definitions_
+- [Gitter Chat](https://gitter.im/solid/chat) - Solid live chatroom.
+- [Solid Community](https://forum.solidproject.org/) - The official Solid Community Forum!
+- [Reddit](https://www.reddit.com/r/solid/) - Solid subreddit.
+- [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
+- [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
+- [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
 
-- [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) - The Semantic Web, coined by Tim Berners-Lee, is a W3C initiative to promote common
- data formats and exchange protocols on the Web, most fundamentally the Resource Description Framework (RDF).
+--------------------
 
-- [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) - OWL is a knowledge representation, a way to describe taxonomies
- and classification networks, essentially defining the structure of knowledge for various domains.
+### Corporate Sites
 
-_Discussions_
+- [Inrupt Inc](https://www.inrupt.com/) - Homepage of the company tasked with helping Solid’s adoption and success.
+- [Inrupt Twitter](https://twitter.com/inrupt) - Follow Inrupt's latest announcements on Twitter!
+- [Inrupt Linkedin](https://www.linkedin.com/company/inrupt-inc/) - Inrupt's Linkedin page.
+
+--------------------
+
+### Tutorials
+
+- [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, video introduction to Linked Data.
+- [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, video introduction to JSON-LD for Web devs.
+- [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, video introduction to the basics of RDFa and the Semantic Web.
+
+- [Playing with Solid](http://dontai.com/wp/2018/10/01/playing-with-solids-pod-documentation) - Dontai's beginner's guide to managing a pod.
+- [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
+- [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
+- [rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js) | [![github](/img/github.svg) ](https://github.com/solid/solid-tutorial-rdflib.js) - This tutorial will walk you through what rdflib.js can do.
+
+--------------------
+
+### Discussions
 
 - [HN Topic 1](https://news.ycombinator.com/item?id=18143517) - How Solid is Tim’s plan to redecentralize the web?
  (https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
@@ -131,26 +163,37 @@ _Discussions_
 - [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
 - [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
 
- _Tutorials_
- 
-- [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, video introduction to Linked Data.
-- [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, video introduction to JSON-LD for Web devs.
-- [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, video introduction to the basics of RDFa and the Semantic Web.
+--------------------
 
-- [rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js) - This tutorial will walk you through what rdflib.js can do.
+### Technical Info
 
-_Technical_
-
-- [RDF JavaScript Libraries](https://github.com/rdfjs) - W3C RDFJS Community Group.
-- [RDF-ext](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
-- [Simple RDF](https://github.com/simplerdf) - The simplest RDF library "ever".
+- [RDF JavaScript Libraries](https://github.com/rdfjs) | [![github](/img/github.svg) ](https://github.com/rdfjs) - W3C RDFJS Community Group.
+- [RDF-ext](https://github.com/rdf-ext) | [![github](/img/github.svg) ](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
+- [Simple RDF](https://github.com/simplerdf) | [![github](/img/github.svg) ](https://github.com/simplerdf) - The simplest RDF library "ever".
 - [Check RDF documents](https://www.w3.org/RDF/Validator/) - W3C's validation service for RDF documents.
 - [RDF Translator](http://rdf-translator.appspot.com/) - A multi-format conversion tool for RDF/XML, RDFa, or Microdata.
 - [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [https://github.com/digitalbazaar/jsonld.js](jsonld.js).
-- [LDflex Playground](https://github.com/solid/ldflex-playground) - Solid LDflex playground. [Live](https://solid.github.io/ldflex-playground/)
+- [LDflex Playground](https://github.com/solid/ldflex-playground) | [![github](/img/github.svg) ](https://github.com/solid/ldflex-playground) - Solid LDflex playground. [Live](https://solid.github.io/ldflex-playground/)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
+- [Trellis LDP](https://github.com/trellis-ldp/trellis) | [![github](/img/github.svg) ](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
 - [RemoteStorage.js](https://remotestoragejs.readthedocs.io/en/latest/index.html) - A library for storing user data locally in the browser.
-- [Trellis LDP](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
 
+--------------------
+
+### Definitions
+
+- [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) - The Semantic Web, coined by Tim Berners-Lee, is a W3C initiative to promote common
+ data formats and exchange protocols on the Web, most fundamentally the Resource Description Framework (RDF).
+
+- [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) - OWL is a knowledge representation, a way to describe taxonomies
+ and classification networks, essentially defining the structure of knowledge for various domains.
+
+--------------------
+
+### Related Awesomeness
+
+- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
+- [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
 
 --------------------
