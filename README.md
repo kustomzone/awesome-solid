@@ -84,7 +84,7 @@ _Open Source_
 
 _Apps_
 
-- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
+- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. [Live](https://pheyvaer.github.io/solid-chess/)
 - [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. [Live](https://solidrc.azurewebsites.net)
 
@@ -146,7 +146,6 @@ _Start Pods_
 - [What is Linked Data?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) - 16th June 2012, video introduction to Linked Data.
 - [What is Json LD?](https://www.youtube.com/watch?v=vioCbTo3C-4) - 18th June 2012, video introduction to JSON-LD for Web devs.
 - [What is RDF?](https://www.youtube.com/watch?v=ldl0m-5zLz4) - 7th Jan 2008, video introduction to the basics of RDFa and the Semantic Web.
-
 - [Playing with Solid](http://dontai.com/wp/2018/10/01/playing-with-solids-pod-documentation) - Dontai's beginner's guide to managing a pod.
 - [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
 - [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
@@ -156,12 +155,12 @@ _Start Pods_
 
 ### Discussions
 
-- [HN Topic 1](https://news.ycombinator.com/item?id=18143517) - How Solid is Tim’s plan to redecentralize the web?
- (https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
-- [HN Topic 2](https://news.ycombinator.com/item?id=17441820) - The man who created the web has some regrets.
- (https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
-- [HN Topic 3](https://news.ycombinator.com/item?id=16355311) - Solid aims to radically change the way web applications work (https://solid.mit.edu/)
-- [HN Topic 4](https://news.ycombinator.com/item?id=18100895) - Solid – Reshape the web as we know it (https://solid.inrupt.com/)
+_HackerNews_
+
+- [How Solid is Tim’s plan to redecentralize the web?](https://news.ycombinator.com/item?id=18143517) | [Source article](https://medium.com/@shevski/how-solid-is-tims-plan-to-redecentralize-the-web-b163ba78e835)
+- [The man who created the web has some regrets](https://news.ycombinator.com/item?id=17441820) | [Source article](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
+- [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | [Source article](https://solid.mit.edu/)
+- [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | [Source article](https://solid.inrupt.com/)
 
 --------------------
 
@@ -172,7 +171,7 @@ _Start Pods_
 - [Simple RDF](https://github.com/simplerdf) | [![github](/img/github.svg) ](https://github.com/simplerdf) - The simplest RDF library "ever".
 - [Check RDF documents](https://www.w3.org/RDF/Validator/) - W3C's validation service for RDF documents.
 - [RDF Translator](http://rdf-translator.appspot.com/) - A multi-format conversion tool for RDF/XML, RDFa, or Microdata.
-- [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [https://github.com/digitalbazaar/jsonld.js](jsonld.js).
+- [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [jsonld.js](https://github.com/digitalbazaar/jsonld.js) | [![github](/img/github.svg) ](https://github.com/digitalbazaar/jsonld.js) 
 - [LDflex Playground](https://github.com/solid/ldflex-playground) | [![github](/img/github.svg) ](https://github.com/solid/ldflex-playground) - Solid LDflex playground. [Live](https://solid.github.io/ldflex-playground/)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Provides an interface for fetching resources, including across a network.
 - [Trellis LDP](https://github.com/trellis-ldp/trellis) | [![github](/img/github.svg) ](https://github.com/trellis-ldp/trellis) - Trellis is a platform for building scalable Linked Data applications.
