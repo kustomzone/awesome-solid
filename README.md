@@ -127,7 +127,7 @@ _Find Pods_
 - [Get a POD!](https://solid.inrupt.com/get-a-solid-pod) - Grab a Pod and WebID here!
 - [Join Solid](https://joinsolid.org/) - Starting pod.
 - [Test Space](https://solidtest.space/) - Testing pod.
-- [Authing.cn](https://solid.authing.cn/) - China's first pod.
+- [Authing.cn](https://solid.authing.cn/) - China's first pod host.
 
 _Start Pods_
 
@@ -144,19 +144,25 @@ _Public Pods_
 
 - [Gitter Chat](https://gitter.im/solid/chat) - Solid live chatroom.
 - [Solid Community](https://forum.solidproject.org/) - The official Solid Community Forum!
+- [Solid 中文社区](https://forum.learnsolid.cn/) - A Solid Community forum in China.
 - [Reddit](https://www.reddit.com/r/solid/) - Solid subreddit.
 - [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
 - [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
 - [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
-- [Solid 中文社区](https://forum.learnsolid.cn/) - A Solid Community forum in China.
 
 --------------------
 
 ### Corporate Sites
 
+_Inrupt_
+
 - [Inrupt Inc](https://www.inrupt.com/) - Homepage of the company tasked with helping Solid’s adoption and success.
 - [Inrupt Twitter](https://twitter.com/inrupt) - Follow Inrupt's latest announcements on Twitter!
 - [Inrupt Linkedin](https://www.linkedin.com/company/inrupt-inc/) - Inrupt's Linkedin page.
+
+_Other_
+
+- [OpenLink Software](https://www.openlinksw.com/) | [![github](/img/github.svg) ](https://github.com/openlink) - Empowering individuals & enterprises via Open Access to Data.
 
 --------------------
 
@@ -170,6 +176,7 @@ _Video_
 
 _Other_
 
+- [Write an Angular Solid App](https://solid.inrupt.com/docs/writing-solid-apps-with-angular) | [![github](/img/github.svg) ](https://github.com/Inrupt-inc/generator-solid-angular) - Create a Solid app with Angular Yeoman Generator.
 - [Playing with Solid](http://dontai.com/wp/2018/10/01/playing-with-solids-pod-documentation) - Dontai's beginner's guide to managing a pod.
 - [Solid Tutorial](https://solid.inrupt.com/docs/app-on-your-lunch-break) - Make a Solid app on your lunch break!
 - [Freecodecamp Intro](https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b) - What Solid is, and how to get started with it.
