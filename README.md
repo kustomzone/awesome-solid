@@ -2,6 +2,7 @@
 ![Awesome Solid](/img/awesome.png?raw=true)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Solid](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
 
 Solid is an exciting new decentralized hosting project led by Prof. [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) [![github](/img/github.svg)](https://github.com/timbl), inventor of the World Wide Web.
 <br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
@@ -59,11 +60,12 @@ _Docs_
 
 _Media_
 
-- [Tim's TED Talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - 'The Next Web' will unlock our data and reframe the way we use it together.
+- [Tim's TED talk 2009](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - 'The Next Web' will unlock our data and reframe the way we use it together.
 - [Tim's TED talk 2010](https://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide) - The Year Open Data Went Worldwide.
 - [Tim's TED talk 2014](https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web) - It’s up to us to fight for the right to access and openness.
 - [Tim's Mozfest 2018 presentation](https://www.youtube.com/watch?v=elfSzMATcB4) - Tim speaks at MozFest 2018 with Q&A.
 - [Tim & Ruben Verborgh with Q&A](https://www.youtube.com/watch?v=kW6e1GCpqpE&t=17970) - Decentralized Web Summit 2018 presentation (@ 4:59:30)
+- [Solid-Server Demo](https://www.youtube.com/watch?v=kU4S-SKR88U) - Screencast of setting up a Solid-Server Pod.
 
 _Articles_
 
@@ -82,6 +84,7 @@ _Open Source_
 - [Solid's Node Server](https://github.com/solid/node-solid-server) | [![github](/img/github.svg) ](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS.
 - [Solid Panes](https://github.com/solid/solid-panes) | [![github](/img/github.svg) ](https://github.com/solid/solid-panes) - A set of core solid-compatible apps based on solid-ui.
 - [Linked Data API](https://github.com/linkeddata/rdflib.js) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) - the Linked Data API for JavaScript. 
+- [Solid File Client](https://github.com/jeff-zucker/solid-file-client) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-file-client) - A Javascript library for creating and managing files & folders in Solid data stores.
 - [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) | [![github](/img/github.svg) ](https://github.com/theWebalyst/safenetwork-webapi) - Safe Network backend for Solid apps.
 
 --------------------
@@ -90,6 +93,7 @@ _Open Source_
 
 _Apps_
 
+- [Solid Apps](https://github.com/solid/solid-apps/) | [![github](/img/github.svg) ](https://github.com/solid/solid-apps/) - A list of apps implementing Solid, including a wish-list.
 - [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
 - [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. | [Live](https://solidrc.azurewebsites.net)
@@ -101,11 +105,14 @@ _Editors_
 - [Warp LDP](https://github.com/linkeddata/warp) | [![github](/img/github.svg) ](https://github.com/linkeddata/warp) - Warp, the linked data file manager. | [Live](https://linkeddata.github.io/warp/)
 - [Combo File Editor](https://github.com/kustomzone/solid-editor) | [![github](/img/github.svg) ](https://github.com/kustomzone/solid-editor) - File Editor based on Warp/Solside. | [Live](https://dredd.solid.community/public/)
 - [Spoggy4](https://github.com/scenaristeur/spoggy4) | [![github](/img/github.svg) ](https://github.com/scenaristeur/spoggy4) - A visualizer/editor for semantic info and Solid filesystems. | [Live](https://spoggy.herokuapp.com/)
+- [OpenLink's RDF Editor](http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=https:%2F%2Fkidehen7.solid.openlinksw.com:8444%2Fpublic%2FNotes%2Fsolid-glossary-of-terms.ttl&view=entities) | [![github](/img/github.svg) ](https://github.com/openlink/rdf-editor) - Live RDF document editor.
 
 _Viewers_
 
 - [Profile Viewer](https://gitlab.com/angelo-v/solid-profile-viewer) - A React app to view and browse Solid WebID Profiles. | [Live](https://profiles.veltens.org/)
-- [Graphmetrix.net](https://graphmetrix.net/) - A Solid graph planner and viewer. 
+- [Graphmetrix.net](https://graphmetrix.net/) - A Solid graph planner and viewer.
+- [Basic Data Browser](http://linkeddata.uriburner.com/about/html/https/kidehen7.solid.openlinksw.com:8444/public/Notes/solid-glossary-of-terms.ttl#this) - (Notes) Solid Glossary of Terms.
+- [Faceted Data Browser](http://linkeddata.uriburner.com/describe/?uri=https://kidehen7.solid.openlinksw.com:8444/public/Notes/solid-glossary-of-terms.ttl) - (Notes) Solid Glossary of Terms.
 
 --------------------
 
@@ -126,6 +133,11 @@ _Start Pods_
 
 - [POD Server Setup](https://solidpodit.com/solid-pod-server-creation/) - Step-by-step instructions for Linux.
 
+_Public Pods_
+
+- [Tim's Pod](https://timbl.com/timbl/Public/) - The very first hosted pod page?!
+- [Ruben's Pod](https://drive.verborgh.org/public/) - Testing testing..
+
 --------------------
 
 ### Community Sites
@@ -136,6 +148,7 @@ _Start Pods_
 - [W3C hosted group](https://www.w3.org/community/solid/) - Official Solid development group.
 - [RSS](http://www.w3.org/community/solid/feed/) - Solid RSS feed.
 - [Q&A](https://stackoverflow.com/questions/tagged/solid) - Stackoverflow tagged queries.
+- [Solid 中文社区](https://forum.learnsolid.cn/) - A Solid Community forum in China.
 
 --------------------
 
@@ -173,10 +186,15 @@ _HackerNews_
 - [Solid aims to radically change the way web apps work](https://news.ycombinator.com/item?id=16355311) | - [site](https://solid.mit.edu/)
 - [Solid to reshape the web as we know it](https://news.ycombinator.com/item?id=18100895) | - [site](https://solid.inrupt.com/)
 
+_Other_
+
+-[What is the essence of project Solid?](https://www.quora.com/In-laymans-terms-what-is-the-essence-of-Sir-Tim-Berners-Lees-project-Solid)
+
 --------------------
 
 ### Technical Info
 
+- [Getting Started with RDFLib](https://rdflib.readthedocs.io/en/4.2.2/gettingstarted.html) - Latest rdflib 4.2.2 documentation.
 - [RDF JavaScript Libraries](https://github.com/rdfjs) | [![github](/img/github.svg) ](https://github.com/rdfjs) - W3C RDFJS Community Group.
 - [RDF-ext](https://github.com/rdf-ext) | [![github](/img/github.svg) ](https://github.com/rdf-ext) - RDF Packages supporting the rdf-ext interface.
 - [Simple RDF](https://github.com/simplerdf) | [![github](/img/github.svg) ](https://github.com/simplerdf) - The simplest RDF library "ever".
@@ -204,6 +222,7 @@ _HackerNews_
 
 _China_
 
+- [Solid 中文社区](https://forum.learnsolid.cn/) - A Solid Community forum in China.
 - [学习 Solid](https://github.com/LearnSolid) | [![github](/img/github.svg) ](https://github.com/LearnSolid)
 - [Solid 是什么?](https://learnsolid.cn/) | [![github](/img/github.svg) ](https://github.com/LearnSolid) - 学习 Solid 中文网.
 - [Solid 中文文档](https://learnsolid.cn/docs/#/) | [![github](/img/github.svg) ](https://github.com/LearnSolid/docs)
