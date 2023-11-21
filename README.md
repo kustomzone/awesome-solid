@@ -93,7 +93,7 @@ _Open Source_
 
 _Apps_
 
-- [Solid Apps](https://github.com/solid/solid-apps/) | [![github](/img/github.svg) ](https://github.com/solid/solid-apps/) - A list of apps implementing Solid, including a wish-list.
+- [Solid Apps](https://solidproject.org/apps) | [![github](/img/github.svg) ](https://github.com/solid/solidproject.org/edit/main/pages/use-solid/apps.md) - A list of apps implementing Solid, including a wish-list.
 - [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
 - [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. | [Live](https://solidrc.azurewebsites.net)
