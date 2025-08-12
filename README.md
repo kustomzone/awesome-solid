@@ -84,7 +84,7 @@ _Open Source_
 - [Solid's Node Server](https://github.com/solid/node-solid-server) | [![github](/img/github.svg) ](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS.
 - [Solid Panes](https://github.com/solid/solid-panes) | [![github](/img/github.svg) ](https://github.com/solid/solid-panes) - A set of core solid-compatible apps based on solid-ui.
 - [Linked Data API](https://github.com/linkeddata/rdflib.js) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) - the Linked Data API for JavaScript. 
-- [Solid File Client](https://github.com/jeff-zucker/solid-file-client) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-file-client) - A Javascript library for creating and managing files & folders in Solid data stores.
+- [Solid File Client](https://github.com/jeff-zucker/solid-file-client) | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-file-client) - Javascript library for creating and managing files & folders in Solid data stores.
 - [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) | [![github](/img/github.svg) ](https://github.com/theWebalyst/safenetwork-webapi) - Safe Network backend for Solid apps.
 
 --------------------
@@ -93,9 +93,9 @@ _Open Source_
 
 _Apps_
 
-- [Solid Apps](https://solidproject.org/apps) | [![github](/img/github.svg) ](https://forum.solidproject.org/c/applications/41) - A list of apps implementing Solid, including a wish-list.
-- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - A bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
-- [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - A decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
+- [Solid Apps](https://solidproject.org/apps) | [Forum Apps](https://forum.solidproject.org/c/applications/41) - List of apps implementing Solid, including a wish-list.
+- [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - Bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - Decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
 - [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. | [Live](https://solidrc.azurewebsites.net)
 
 _Editors_
