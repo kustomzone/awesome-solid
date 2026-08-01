@@ -97,6 +97,7 @@ _Apps_
 - [MarkBook.org](https://github.com/mark-book/markbook) | [![github](/img/github.svg) ](https://github.com/mark-book/markbook) - Bookmarking app using Solid. | [Live](https://markbook.org/) | [Userguide](https://forum.solidproject.org/t/bookmarking-application/192)
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) | [![github](/img/github.svg) ](https://github.com/pheyvaer/solid-chess) - Decentralized chess app build on top of Solid. | [Live](https://pheyvaer.github.io/solid-chess/)
 - [RC LogBook](https://github.com/JornWildt/SolidRC) | [![github](/img/github.svg) ](https://github.com/JornWildt/SolidRC) - Register your radio controlled models and flights. | [Live](https://solidrc.azurewebsites.net)
+- [Proxion](https://github.com/cafeTechne/proxion-messenger) | [![github](/img/github.svg) ](https://github.com/cafeTechne/proxion-messenger) - End-to-end encrypted messenger and voice. Rooms are standard Long Chat that opens in the SolidOS databrowser and is discoverable via the pod's type index. | [Install](https://cafetechne.github.io/proxion-messenger/)
 
 _Editors_
 
